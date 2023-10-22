@@ -9,10 +9,12 @@ For Windows:-
 Move the file to "C:/ProgramData/Cold Turkey" directory.
 If "Cold Turkey" folder is not there then create it.
 Open Terminal, cd to the folder and run the command
+
 python3 ColdTurkeyBlockerPro-Activator-Windows.py
 
 
 
 For Mac:-
 cd to this cloned directory and run the respective python script.
+
 python3 ColdTurkeyBlockerPro-Activator-Mac.py
